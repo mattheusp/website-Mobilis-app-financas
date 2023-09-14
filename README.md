@@ -1,4 +1,4 @@
-# Landingpage para um website de finanças
+# Landing page para um website de finanças
 
 - Landing page para app dde finanças, criada pra treinar conhecimentos de HTML, CSS e JavaScript.
 
